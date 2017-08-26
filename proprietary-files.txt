@@ -463,5 +463,5 @@ etc/firmware/goodixfp.b03
 etc/firmware/goodixfp.mdt
 
 # Sensors
-etc/sensors/hals.conf
+etc/sensors/hals.conf:vendor/etc/sensors/hals.conf
 etc/sensors/sensor_def_qcomdev.conf
